@@ -10,26 +10,26 @@ tags = [
 ]
 +++
 
-# Bio
+## Bio
 
 * Brazilian, 26 years
 * Address: St. Caldas Junior
 * Passo D’Areia – Santa Maria – RS, Brazil
 * Phone: +55 55 9-8140-9050 / E-mail: anaimayer3@gmail.com
 
-# Objetive
+## Objetive
 
 * Full time job.
 * Act as part of a team to achieve optimal results, share knowledge and learn as much as possible.
 * Optimize workflows, employ my skills creating better and more efficient solutions in all possible areas.
 
 
-# Formation
+## Formation
 * Computer hardware maintenance, Cebrac (2010 - 2010)
 * IT technical course, CS Computadores (2013 - 2015. Hardware, network, programming)
 * Information systems graduation, Universidade Franciscana (2018, ongoing)
 
-# Experience
+## Experience
 * 2010-2012 – Brazilian Post and Telegraph Company. \
 Office: Administration internship. \
 Main activities: Creating and maintaining reports to track results and goals. Usage of Excel to achieve faster and more accurate results.

@@ -1,7 +1,7 @@
 +++
 author = "Alisson Naimayer"
 title = "Additional information"
-date = "2020-09-30"
+date = "2020-09-29"
 description = "Additional information"
 tags = [
     "Alisson Naimayer",
@@ -16,25 +16,25 @@ tags = [
 ]
 +++
 
-# Programming skills
-## Backend
+## Programming skills
+#### Backend
 * PHP
 * Javascript / jQuery
 * Python
 * Golang
 
-## Frontend
+#### Frontend
 * Angular
 * VueJS
 * HTML
 * CSS (Bootstrap / Materialize)
 
-## Database
+#### Database
 * MySQL
 * MariaDB
 * PostgreSQL
 
-# Languages
+## Languages
 * English - Advanced
 * French - Intermediate
 * Portuguese - Native

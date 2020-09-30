@@ -7,12 +7,6 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-# Enable Disqus
-#disqusShortname = ""
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
 [params]
 title = "Alisson Naimayer"
 author = "Alisson Naimayer"
@@ -24,8 +18,6 @@ customCss = []
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
-# Google Site Verification
-#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 ## Math settings
 [params.math]
